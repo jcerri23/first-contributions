@@ -13,7 +13,7 @@
 - [Asaad Shaikh](https://github.com/scramerr)
 - [Yoyo Wu] (https://github.com/KingJJ676)
 - giulia cerri 
--[yoko Martin Raju] 
+- [yoko Martin Raju] 
 - [Mi Khin] (https://github.com/MiKhin1115)
 - [Kashvi Jain](https://github.com/kashvi0/)
 - [Kushagra Jain](https://github.com/kushagrajain7)
